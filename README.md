@@ -1,1 +1,1 @@
-# azeaze
+Crystal Wallet Miner :)
